@@ -1,0 +1,149 @@
+C:\Users\moham\source\repos\GFresh\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\source\repos\GFresh\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\source\repos\GFresh\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\source\repos\GFresh\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\User\Source\Repos\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\aaaaa\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\new\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\28-3\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\api2\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\30\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\30\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\30\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\30\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\hyapi\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\User\Desktop\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\sd\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\moham\Desktop\mo_s\4-11\API\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\LEGION\OneDrive - Hashemite University\Desktop\finall\apiFinaal\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.deps.json
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\bin\Debug\netcoreapp3.1\GFresh.Core.pdb
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.AssemblyReference.cache
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfoInputs.cache
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.AssemblyInfo.cs
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.dll
+C:\Users\Dash Arabia\Desktop\api27-4\APIFinalProject\GFresh.Core\obj\Debug\netcoreapp3.1\GFresh.Core.pdb
